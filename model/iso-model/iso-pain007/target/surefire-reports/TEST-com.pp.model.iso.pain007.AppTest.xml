@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\ashis\AppData\Local\Temp\surefire13247748432122362484\surefirebooter11318173362262545535.jar C:\Users\ashis\AppData\Local\Temp\surefire13247748432122362484 2021-12-12T16-01-36_995-jvmRun1 surefire17425786490505866720tmp surefire_25767280339237281360tmp"/>
+    <property name="sun.java.command" value="C:\Users\ashis\AppData\Local\Temp\surefire5198119323680864973\surefirebooter14519488961532695331.jar C:\Users\ashis\AppData\Local\Temp\surefire5198119323680864973 2021-12-12T16-07-19_756-jvmRun1 surefire17474986659684244604tmp surefire_211440741537077261336tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\code\boatman\model\iso-model\iso-pain007\target\test-classes;D:\code\boatman\model\iso-model\iso-pain007\target\classes;C:\Users\ashis\.m2\repository\javax\xml\bind\jaxb-api\2.1\jaxb-api-2.1.jar;C:\Users\ashis\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar;C:\Users\ashis\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\ashis\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ashis\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\ashis\AppData\Local\Temp\surefire13247748432122362484\surefirebooter11318173362262545535.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ashis\AppData\Local\Temp\surefire5198119323680864973\surefirebooter14519488961532695331.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="15.0.1+9-18"/>
@@ -55,5 +55,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="59.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.pp.model.iso.pain007.AppTest" time="0"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.pp.model.iso.pain007.AppTest" time="0.001"/>
 </testsuite>
