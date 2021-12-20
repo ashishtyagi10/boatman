@@ -1,0 +1,1610 @@
+{
+	"Document": {
+		"CustomerCreditTransferInitiation": {
+			"GroupHeader": {
+				"MessageIdentificationentification": "a",
+				"CreationDateTime": "2001-12-17T09:30:47Z",
+				"Authorisation": {
+					"Code": "FSUM"
+				},
+				"NumberOfTransactions": 0,
+				"ControlSum": 0,
+				"InitiatingParty": {
+					"Name": "a",
+					"PostalAddress": {
+						"AddressType": {
+							"Code": "BIZZ"
+						},
+						"Department": "a",
+						"SubDepartment": "a",
+						"StrtName": "a",
+						"BuildingNumber": "a",
+						"BldgName": "a",
+						"Flr": "a",
+						"PstBx": "a",
+						"Room": "a",
+						"PstCode": "a",
+						"TwnName": "a",
+						"TwnLctnName": "a",
+						"DstrctName": "a",
+						"CountrySubDivision": "a",
+						"Country": "AA",
+						"AddressLine": "a"
+					},
+					"Identification": {
+						"OrganisationIdentificationentification": {
+							"AnyBIC": "0000AA00",
+							"LEI": "00000000000000000000",
+							"Other": {
+								"Identification": "a",
+								"SchmeName": {
+									"Code": "a"
+								},
+								"Issuer": "a"
+							}
+						}
+					},
+					"CountryOfRes": "AA",
+					"ContactDetails": {
+						"NamePrfx": "DOCT",
+						"Name": "a",
+						"PhoneNumber": "+0-(",
+						"MobileNumber": "+0-(",
+						"FaxNumber": "+0-(",
+						"EmailAddress": "a",
+						"EmailPurpose": "a",
+						"JobTitle": "a",
+						"Rspnsblty": "a",
+						"Department": "a",
+						"Other": {
+							"ChanlType": "a",
+							"Identification": "a"
+						},
+						"PrefrdMethod": "MAIL"
+					}
+				},
+				"ForwardingAgent": {
+					"FinancialInstitutionIdentificationentification": {
+						"BICFI": "0000AA00",
+						"ClearingSystemMemberIdentificationentification": {
+							"ClearingSystemIdentificationentification": {
+								"Code": "a"
+							},
+							"MemberIdentificationentification": "a"
+						},
+						"LEI": "00000000000000000000",
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "HOME"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						},
+						"Other": {
+							"Identification": "a",
+							"SchmeName": {
+								"Code": "a"
+							},
+							"Issuer": "a"
+						}
+					},
+					"BranchIdentificationentification": {
+						"Identification": "a",
+						"LEI": "00000000000000000000",
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "BIZZ"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						}
+					}
+				}
+			},
+			"PaymentInformationormation": {
+				"PaymentInformationormationIdentification": "a",
+				"PaymentMethod": "TRA",
+				"BatchBooking": "true",
+				"NumberOfTransactions": 0,
+				"ControlSum": 0,
+				"PaymentTypeInformationormation": {
+					"InstructionPriority": "HIGH",
+					"ServiceLevel": {
+						"Code": "a"
+					},
+					"LocalInstrument": {
+						"Code": "a"
+					},
+					"CategoryPurposeose": {
+						"Code": "a"
+					}
+				},
+				"RequestedExecutionDate": {
+					"Date": "1957-08-13"
+				},
+				"PoolgAdjstmntDate": "1957-08-13",
+				"Debtor": {
+					"Name": "a",
+					"PostalAddress": {
+						"AddressType": {
+							"Code": "DLVY"
+						},
+						"Department": "a",
+						"SubDepartment": "a",
+						"StrtName": "a",
+						"BuildingNumber": "a",
+						"BldgName": "a",
+						"Flr": "a",
+						"PstBx": "a",
+						"Room": "a",
+						"PstCode": "a",
+						"TwnName": "a",
+						"TwnLctnName": "a",
+						"DstrctName": "a",
+						"CountrySubDivision": "a",
+						"Country": "AA",
+						"AddressLine": "a"
+					},
+					"Identification": {
+						"OrganisationIdentificationentification": {
+							"AnyBIC": "0000AA00",
+							"LEI": "00000000000000000000",
+							"Other": {
+								"Identification": "a",
+								"SchmeName": {
+									"Code": "a"
+								},
+								"Issuer": "a"
+							}
+						}
+					},
+					"CountryOfRes": "AA",
+					"ContactDetails": {
+						"NamePrfx": "DOCT",
+						"Name": "a",
+						"PhoneNumber": "+0-(",
+						"MobileNumber": "+0-(",
+						"FaxNumber": "+0-(",
+						"EmailAddress": "a",
+						"EmailPurpose": "a",
+						"JobTitle": "a",
+						"Rspnsblty": "a",
+						"Department": "a",
+						"Other": {
+							"ChanlType": "a",
+							"Identification": "a"
+						},
+						"PrefrdMethod": "FAXX"
+					}
+				},
+				"DebtorAcct": {
+					"Identification": {
+						"IBAN": "AA000"
+					},
+					"Type": {
+						"Code": "a"
+					},
+					"Xml Attribute Currency": "AAA",
+					"Name": "a",
+					"Prxy": {
+						"Type": {
+							"Code": "a"
+						},
+						"Identification": "a"
+					}
+				},
+				"DebtorAgt": {
+					"FinancialInstitutionIdentificationentification": {
+						"BICFI": "0000AA00",
+						"ClearingSystemMemberIdentificationentification": {
+							"ClearingSystemIdentificationentification": {
+								"Code": "a"
+							},
+							"MemberIdentificationentification": "a"
+						},
+						"LEI": "00000000000000000000",
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "BIZZ"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						},
+						"Other": {
+							"Identification": "a",
+							"SchmeName": {
+								"Code": "a"
+							},
+							"Issuer": "a"
+						}
+					},
+					"BranchIdentificationentification": {
+						"Identification": "a",
+						"LEI": "00000000000000000000",
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "HOME"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						}
+					}
+				},
+				"DebtorAgtAcct": {
+					"Identification": {
+						"IBAN": "AA000"
+					},
+					"Type": {
+						"Code": "a"
+					},
+					"Xml Attribute Currency": "AAA",
+					"Name": "a",
+					"Prxy": {
+						"Type": {
+							"Code": "a"
+						},
+						"Identification": "a"
+					}
+				},
+				"InstrForDebtorAgt": "a",
+				"UltmtDebtor": {
+					"Name": "a",
+					"PostalAddress": {
+						"AddressType": {
+							"Code": "PBOX"
+						},
+						"Department": "a",
+						"SubDepartment": "a",
+						"StrtName": "a",
+						"BuildingNumber": "a",
+						"BldgName": "a",
+						"Flr": "a",
+						"PstBx": "a",
+						"Room": "a",
+						"PstCode": "a",
+						"TwnName": "a",
+						"TwnLctnName": "a",
+						"DstrctName": "a",
+						"CountrySubDivision": "a",
+						"Country": "AA",
+						"AddressLine": "a"
+					},
+					"Identification": {
+						"OrganisationIdentificationentification": {
+							"AnyBIC": "0000AA00",
+							"LEI": "00000000000000000000",
+							"Other": {
+								"Identification": "a",
+								"SchmeName": {
+									"Code": "a"
+								},
+								"Issuer": "a"
+							}
+						}
+					},
+					"CountryOfRes": "AA",
+					"ContactDetails": {
+						"NamePrfx": "DOCT",
+						"Name": "a",
+						"PhoneNumber": "+0-(",
+						"MobileNumber": "+0-(",
+						"FaxNumber": "+0-(",
+						"EmailAddress": "a",
+						"EmailPurpose": "a",
+						"JobTitle": "a",
+						"Rspnsblty": "a",
+						"Department": "a",
+						"Other": {
+							"ChanlType": "a",
+							"Identification": "a"
+						},
+						"PrefrdMethod": "CELL"
+					}
+				},
+				"ChargeBearer": "CRED",
+				"ChargesAccount": {
+					"Identification": {
+						"IBAN": "AA000"
+					},
+					"Type": {
+						"Code": "a"
+					},
+					"Xml Attribute Currency": "AAA",
+					"Name": "a",
+					"Prxy": {
+						"Type": {
+							"Code": "a"
+						},
+						"Identification": "a"
+					}
+				},
+				"ChargesAccountAgt": {
+					"FinancialInstitutionIdentificationentification": {
+						"BICFI": "0000AA00",
+						"ClearingSystemMemberIdentificationentification": {
+							"ClearingSystemIdentificationentification": {
+								"Code": "a"
+							},
+							"MemberIdentificationentification": "a"
+						},
+						"LEI": "00000000000000000000",
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "DLVY"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						},
+						"Other": {
+							"Identification": "a",
+							"SchmeName": {
+								"Code": "a"
+							},
+							"Issuer": "a"
+						}
+					},
+					"BranchIdentificationentification": {
+						"Identification": "a",
+						"LEI": "00000000000000000000",
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "HOME"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						}
+					}
+				},
+				"CodetTrfTxInformation": {
+					"PaymentIdentificationentification": {
+						"InstructionIdentificationentification": "a",
+						"EndToEndIdentificationentification": "a",
+						"UETR": "00000000-0000-4000-8000-000000000000"
+					},
+					"PaymentTypeInformationormation": {
+						"InstructionPriority": "NORM",
+						"ServiceLevel": {
+							"Code": "a"
+						},
+						"LocalInstrument": {
+							"Code": "a"
+						},
+						"CategoryPurposeose": {
+							"Code": "a"
+						}
+					},
+					"Amount": {
+						"InstdAmount": {
+							"@Xml Attribute Currency": "AAA",
+							"$": 0
+						}
+					},
+					"ExchangeRateInformationormation": {
+						"UnitXml Attribute Currency": "AAA",
+						"ExchangeRate": 0,
+						"RateType": "SPOT",
+						"ContractIdentificationentification": "a"
+					},
+					"ChargeBearer": "CRED",
+					"ChequeInstruction": {
+						"ChqType": "BCHQ",
+						"ChequeNumber": "a",
+						"ChequeFrom": {
+							"Name": "a",
+							"Address": {
+								"AddressType": {
+									"Code": "MLTO"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							}
+						},
+						"DeliveryMethod": {
+							"Code": "PUCD"
+						},
+						"DeliverTo": {
+							"Name": "a",
+							"Address": {
+								"AddressType": {
+									"Code": "PBOX"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							}
+						},
+						"InstructionPriority": "NORM",
+						"ChqMtrtyDate": "1957-08-13",
+						"FrmsCode": "a",
+						"MemoField": "a",
+						"RegionalClearingZone": "a",
+						"PrintLocation": "a",
+						"Signature": "a"
+					},
+					"UltmtDebtor": {
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "MLTO"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						},
+						"Identification": {
+							"OrganisationIdentificationentification": {
+								"AnyBIC": "0000AA00",
+								"LEI": "00000000000000000000",
+								"Other": {
+									"Identification": "a",
+									"SchmeName": {
+										"Code": "a"
+									},
+									"Issuer": "a"
+								}
+							}
+						},
+						"CountryOfRes": "AA",
+						"ContactDetails": {
+							"NamePrfx": "DOCT",
+							"Name": "a",
+							"PhoneNumber": "+0-(",
+							"MobileNumber": "+0-(",
+							"FaxNumber": "+0-(",
+							"EmailAddress": "a",
+							"EmailPurpose": "a",
+							"JobTitle": "a",
+							"Rspnsblty": "a",
+							"Department": "a",
+							"Other": {
+								"ChanlType": "a",
+								"Identification": "a"
+							},
+							"PrefrdMethod": "FAXX"
+						}
+					},
+					"IntermediaryAgent1": {
+						"FinancialInstitutionIdentificationentification": {
+							"BICFI": "0000AA00",
+							"ClearingSystemMemberIdentificationentification": {
+								"ClearingSystemIdentificationentification": {
+									"Code": "a"
+								},
+								"MemberIdentificationentification": "a"
+							},
+							"LEI": "00000000000000000000",
+							"Name": "a",
+							"PostalAddress": {
+								"AddressType": {
+									"Code": "MLTO"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							},
+							"Other": {
+								"Identification": "a",
+								"SchmeName": {
+									"Code": "a"
+								},
+								"Issuer": "a"
+							}
+						},
+						"BranchIdentificationentification": {
+							"Identification": "a",
+							"LEI": "00000000000000000000",
+							"Name": "a",
+							"PostalAddress": {
+								"AddressType": {
+									"Code": "MLTO"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							}
+						}
+					},
+					"IntermediaryAgent1Acct": {
+						"Identification": {
+							"IBAN": "AA000"
+						},
+						"Type": {
+							"Code": "a"
+						},
+						"Xml Attribute Currency": "AAA",
+						"Name": "a",
+						"Prxy": {
+							"Type": {
+								"Code": "a"
+							},
+							"Identification": "a"
+						}
+					},
+					"IntermediaryAgent2": {
+						"FinancialInstitutionIdentificationentification": {
+							"BICFI": "0000AA00",
+							"ClearingSystemMemberIdentificationentification": {
+								"ClearingSystemIdentificationentification": {
+									"Code": "a"
+								},
+								"MemberIdentificationentification": "a"
+							},
+							"LEI": "00000000000000000000",
+							"Name": "a",
+							"PostalAddress": {
+								"AddressType": {
+									"Code": "MLTO"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							},
+							"Other": {
+								"Identification": "a",
+								"SchmeName": {
+									"Code": "a"
+								},
+								"Issuer": "a"
+							}
+						},
+						"BranchIdentificationentification": {
+							"Identification": "a",
+							"LEI": "00000000000000000000",
+							"Name": "a",
+							"PostalAddress": {
+								"AddressType": {
+									"Code": "PBOX"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							}
+						}
+					},
+					"IntermediaryAgent2Acct": {
+						"Identification": {
+							"IBAN": "AA000"
+						},
+						"Type": {
+							"Code": "a"
+						},
+						"Xml Attribute Currency": "AAA",
+						"Name": "a",
+						"Prxy": {
+							"Type": {
+								"Code": "a"
+							},
+							"Identification": "a"
+						}
+					},
+					"IntermediaryAgent3": {
+						"FinancialInstitutionIdentificationentification": {
+							"BICFI": "0000AA00",
+							"ClearingSystemMemberIdentificationentification": {
+								"ClearingSystemIdentificationentification": {
+									"Code": "a"
+								},
+								"MemberIdentificationentification": "a"
+							},
+							"LEI": "00000000000000000000",
+							"Name": "a",
+							"PostalAddress": {
+								"AddressType": {
+									"Code": "HOME"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							},
+							"Other": {
+								"Identification": "a",
+								"SchmeName": {
+									"Code": "a"
+								},
+								"Issuer": "a"
+							}
+						},
+						"BranchIdentificationentification": {
+							"Identification": "a",
+							"LEI": "00000000000000000000",
+							"Name": "a",
+							"PostalAddress": {
+								"AddressType": {
+									"Code": "BIZZ"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							}
+						}
+					},
+					"IntermediaryAgent3Acct": {
+						"Identification": {
+							"IBAN": "AA000"
+						},
+						"Type": {
+							"Code": "a"
+						},
+						"Xml Attribute Currency": "AAA",
+						"Name": "a",
+						"Prxy": {
+							"Type": {
+								"Code": "a"
+							},
+							"Identification": "a"
+						}
+					},
+					"CodetrAgt": {
+						"FinancialInstitutionIdentificationentification": {
+							"BICFI": "0000AA00",
+							"ClearingSystemMemberIdentificationentification": {
+								"ClearingSystemIdentificationentification": {
+									"Code": "a"
+								},
+								"MemberIdentificationentification": "a"
+							},
+							"LEI": "00000000000000000000",
+							"Name": "a",
+							"PostalAddress": {
+								"AddressType": {
+									"Code": "ADDR"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							},
+							"Other": {
+								"Identification": "a",
+								"SchmeName": {
+									"Code": "a"
+								},
+								"Issuer": "a"
+							}
+						},
+						"BranchIdentificationentification": {
+							"Identification": "a",
+							"LEI": "00000000000000000000",
+							"Name": "a",
+							"PostalAddress": {
+								"AddressType": {
+									"Code": "DLVY"
+								},
+								"Department": "a",
+								"SubDepartment": "a",
+								"StrtName": "a",
+								"BuildingNumber": "a",
+								"BldgName": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCode": "a",
+								"TwnName": "a",
+								"TwnLctnName": "a",
+								"DstrctName": "a",
+								"CountrySubDivision": "a",
+								"Country": "AA",
+								"AddressLine": "a"
+							}
+						}
+					},
+					"CodetrAgtAcct": {
+						"Identification": {
+							"IBAN": "AA000"
+						},
+						"Type": {
+							"Code": "a"
+						},
+						"Xml Attribute Currency": "AAA",
+						"Name": "a",
+						"Prxy": {
+							"Type": {
+								"Code": "a"
+							},
+							"Identification": "a"
+						}
+					},
+					"Codetr": {
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "ADDR"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						},
+						"Identification": {
+							"OrganisationIdentificationentification": {
+								"AnyBIC": "0000AA00",
+								"LEI": "00000000000000000000",
+								"Other": {
+									"Identification": "a",
+									"SchmeName": {
+										"Code": "a"
+									},
+									"Issuer": "a"
+								}
+							}
+						},
+						"CountryOfRes": "AA",
+						"ContactDetails": {
+							"NamePrfx": "DOCT",
+							"Name": "a",
+							"PhoneNumber": "+0-(",
+							"MobileNumber": "+0-(",
+							"FaxNumber": "+0-(",
+							"EmailAddress": "a",
+							"EmailPurpose": "a",
+							"JobTitle": "a",
+							"Rspnsblty": "a",
+							"Department": "a",
+							"Other": {
+								"ChanlType": "a",
+								"Identification": "a"
+							},
+							"PrefrdMethod": "LETT"
+						}
+					},
+					"CodetrAcct": {
+						"Identification": {
+							"IBAN": "AA000"
+						},
+						"Type": {
+							"Code": "a"
+						},
+						"Xml Attribute Currency": "AAA",
+						"Name": "a",
+						"Prxy": {
+							"Type": {
+								"Code": "a"
+							},
+							"Identification": "a"
+						}
+					},
+					"UltmtCodetr": {
+						"Name": "a",
+						"PostalAddress": {
+							"AddressType": {
+								"Code": "MLTO"
+							},
+							"Department": "a",
+							"SubDepartment": "a",
+							"StrtName": "a",
+							"BuildingNumber": "a",
+							"BldgName": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCode": "a",
+							"TwnName": "a",
+							"TwnLctnName": "a",
+							"DstrctName": "a",
+							"CountrySubDivision": "a",
+							"Country": "AA",
+							"AddressLine": "a"
+						},
+						"Identification": {
+							"OrganisationIdentificationentification": {
+								"AnyBIC": "0000AA00",
+								"LEI": "00000000000000000000",
+								"Other": {
+									"Identification": "a",
+									"SchmeName": {
+										"Code": "a"
+									},
+									"Issuer": "a"
+								}
+							}
+						},
+						"CountryOfRes": "AA",
+						"ContactDetails": {
+							"NamePrfx": "DOCT",
+							"Name": "a",
+							"PhoneNumber": "+0-(",
+							"MobileNumber": "+0-(",
+							"FaxNumber": "+0-(",
+							"EmailAddress": "a",
+							"EmailPurpose": "a",
+							"JobTitle": "a",
+							"Rspnsblty": "a",
+							"Department": "a",
+							"Other": {
+								"ChanlType": "a",
+								"Identification": "a"
+							},
+							"PrefrdMethod": "LETT"
+						}
+					},
+					"InstrForCodetrAgt": {
+						"Code": "HOLD",
+						"InstructionInformationormation": "a"
+					},
+					"InstrForDebtorAgt": "a",
+					"Purpose": {
+						"Code": "a"
+					},
+					"RegulatoryReporting": {
+						"DbtCodetRptgInd": "CRED",
+						"Authority": {
+							"Name": "a",
+							"Country": "AA"
+						},
+						"Datels": {
+							"Type": "a",
+							"Date": "1957-08-13",
+							"Country": "AA",
+							"Code": "a",
+							"Amount": {
+								"@Xml Attribute Currency": "AAA",
+								"$": 0
+							},
+							"Information": "a"
+						}
+					},
+					"Tax": {
+						"Codetr": {
+							"TaxIdentificationentification": "a",
+							"RegistrationIdentificationentification": "a",
+							"TaxType": "a"
+						},
+						"Debtor": {
+							"TaxIdentificationentification": "a",
+							"RegistrationIdentificationentification": "a",
+							"TaxType": "a",
+							"Authorisation": {
+								"Title": "a",
+								"Name": "a"
+							}
+						},
+						"AdministrationZone": "a",
+						"ReferenceerenceNumber": "a",
+						"Method": "a",
+						"TtlTaxblBaseAmount": {
+							"@Xml Attribute Currency": "AAA",
+							"$": 0
+						},
+						"TtlTaxAmount": {
+							"@Xml Attribute Currency": "AAA",
+							"$": 0
+						},
+						"Date": "1957-08-13",
+						"SequenceNumber": 0,
+						"Record": {
+							"Type": "a",
+							"Category": "a",
+							"CategoryDatels": "a",
+							"DebtorSts": "a",
+							"CertificateIdentificationentification": "a",
+							"FrmsCode": "a",
+							"Period": {
+								"Year": "1957-08-13",
+								"Type": "MM05",
+								"FrToDate": {
+									"FrDate": "1957-08-13",
+									"ToDate": "1957-08-13"
+								}
+							},
+							"TaxAmount": {
+								"Rate": 0,
+								"TaxblBaseAmount": {
+									"@Xml Attribute Currency": "AAA",
+									"$": 0
+								},
+								"TtlAmount": {
+									"@Xml Attribute Currency": "AAA",
+									"$": 0
+								},
+								"Datels": {
+									"Period": {
+										"Year": "1957-08-13",
+										"Type": "QTR1",
+										"FrToDate": {
+											"FrDate": "1957-08-13",
+											"ToDate": "1957-08-13"
+										}
+									},
+									"Amount": {
+										"@Xml Attribute Currency": "AAA",
+										"$": 0
+									}
+								}
+							},
+							"AdditionalInformationormation": "a"
+						}
+					},
+					"RelatedRemittanceInformationormation": {
+						"RemittanceIdentificationentification": "a",
+						"RmtLctnDatels": {
+							"Method": "EDIC",
+							"ElctrncAddress": "a",
+							"PostalAddress": {
+								"Name": "a",
+								"Address": {
+									"AddressType": {
+										"Code": "HOME"
+									},
+									"Department": "a",
+									"SubDepartment": "a",
+									"StrtName": "a",
+									"BuildingNumber": "a",
+									"BldgName": "a",
+									"Flr": "a",
+									"PstBx": "a",
+									"Room": "a",
+									"PstCode": "a",
+									"TwnName": "a",
+									"TwnLctnName": "a",
+									"DstrctName": "a",
+									"CountrySubDivision": "a",
+									"Country": "AA",
+									"AddressLine": "a"
+								}
+							}
+						}
+					},
+					"RemittanceInformationormation": {
+						"Unstructured": "a",
+						"Structured": {
+							"ReferenceerredDocumentInformationormation": {
+								"Type": {
+									"CodeOrProprietary": {
+										"Code": "DISP"
+									},
+									"Issuer": "a"
+								},
+								"Number": "a",
+								"RltdDate": "1957-08-13",
+								"LineDatels": {
+									"Identification": {
+										"Type": {
+											"CodeOrProprietary": {
+												"Code": "a"
+											},
+											"Issuer": "a"
+										},
+										"Number": "a",
+										"RltdDate": "1957-08-13"
+									},
+									"Description": "a",
+									"Amount": {
+										"DuePyblAmount": {
+											"@Xml Attribute Currency": "AAA",
+											"$": 0
+										},
+										"DscntApldAmount": {
+											"Type": {
+												"Code": "a"
+											},
+											"Amount": {
+												"@Xml Attribute Currency": "AAA",
+												"$": 0
+											}
+										},
+										"CodetNoteAmount": {
+											"@Xml Attribute Currency": "AAA",
+											"$": 0
+										},
+										"TaxAmount": {
+											"Type": {
+												"Code": "a"
+											},
+											"Amount": {
+												"@Xml Attribute Currency": "AAA",
+												"$": 0
+											}
+										},
+										"AdjstmntAmountAndReason": {
+											"Amount": {
+												"@Xml Attribute Currency": "AAA",
+												"$": 0
+											},
+											"CodetDbtInd": "CRDT",
+											"Reason": "a",
+											"AdditionalInformationormation": "a"
+										},
+										"RmtdAmount": {
+											"@Xml Attribute Currency": "AAA",
+											"$": 0
+										}
+									}
+								}
+							},
+							"RfrdDocAmount": {
+								"DuePyblAmount": {
+									"@Xml Attribute Currency": "AAA",
+									"$": 0
+								},
+								"DscntApldAmount": {
+									"Type": {
+										"Code": "a"
+									},
+									"Amount": {
+										"@Xml Attribute Currency": "AAA",
+										"$": 0
+									}
+								},
+								"CodetNoteAmount": {
+									"@Xml Attribute Currency": "AAA",
+									"$": 0
+								},
+								"TaxAmount": {
+									"Type": {
+										"Code": "a"
+									},
+									"Amount": {
+										"@Xml Attribute Currency": "AAA",
+										"$": 0
+									}
+								},
+								"AdjstmntAmountAndReason": {
+									"Amount": {
+										"@Xml Attribute Currency": "AAA",
+										"$": 0
+									},
+									"CodetDbtInd": "CRDT",
+									"Reason": "a",
+									"AdditionalInformationormation": "a"
+								},
+								"RmtdAmount": {
+									"@Xml Attribute Currency": "AAA",
+									"$": 0
+								}
+							},
+							"CodetrReferenceInformation": {
+								"Type": {
+									"CodeOrProprietary": {
+										"Code": "SCOR"
+									},
+									"Issuer": "a"
+								},
+								"Reference": "a"
+							},
+							"Invoicer": {
+								"Name": "a",
+								"PostalAddress": {
+									"AddressType": {
+										"Code": "PBOX"
+									},
+									"Department": "a",
+									"SubDepartment": "a",
+									"StrtName": "a",
+									"BuildingNumber": "a",
+									"BldgName": "a",
+									"Flr": "a",
+									"PstBx": "a",
+									"Room": "a",
+									"PstCode": "a",
+									"TwnName": "a",
+									"TwnLctnName": "a",
+									"DstrctName": "a",
+									"CountrySubDivision": "a",
+									"Country": "AA",
+									"AddressLine": "a"
+								},
+								"Identification": {
+									"OrganisationIdentificationentification": {
+										"AnyBIC": "0000AA00",
+										"LEI": "00000000000000000000",
+										"Other": {
+											"Identification": "a",
+											"SchmeName": {
+												"Code": "a"
+											},
+											"Issuer": "a"
+										}
+									}
+								},
+								"CountryOfRes": "AA",
+								"ContactDetails": {
+									"NamePrfx": "MISS",
+									"Name": "a",
+									"PhoneNumber": "+0-(",
+									"MobileNumber": "+0-(",
+									"FaxNumber": "+0-(",
+									"EmailAddress": "a",
+									"EmailPurpose": "a",
+									"JobTitle": "a",
+									"Rspnsblty": "a",
+									"Department": "a",
+									"Other": {
+										"ChanlType": "a",
+										"Identification": "a"
+									},
+									"PrefrdMethod": "PHON"
+								}
+							},
+							"Invoicee": {
+								"Name": "a",
+								"PostalAddress": {
+									"AddressType": {
+										"Code": "MLTO"
+									},
+									"Department": "a",
+									"SubDepartment": "a",
+									"StrtName": "a",
+									"BuildingNumber": "a",
+									"BldgName": "a",
+									"Flr": "a",
+									"PstBx": "a",
+									"Room": "a",
+									"PstCode": "a",
+									"TwnName": "a",
+									"TwnLctnName": "a",
+									"DstrctName": "a",
+									"CountrySubDivision": "a",
+									"Country": "AA",
+									"AddressLine": "a"
+								},
+								"Identification": {
+									"OrganisationIdentificationentification": {
+										"AnyBIC": "0000AA00",
+										"LEI": "00000000000000000000",
+										"Other": {
+											"Identification": "a",
+											"SchmeName": {
+												"Code": "a"
+											},
+											"Issuer": "a"
+										}
+									}
+								},
+								"CountryOfRes": "AA",
+								"ContactDetails": {
+									"NamePrfx": "MIKS",
+									"Name": "a",
+									"PhoneNumber": "+0-(",
+									"MobileNumber": "+0-(",
+									"FaxNumber": "+0-(",
+									"EmailAddress": "a",
+									"EmailPurpose": "a",
+									"JobTitle": "a",
+									"Rspnsblty": "a",
+									"Department": "a",
+									"Other": {
+										"ChanlType": "a",
+										"Identification": "a"
+									},
+									"PrefrdMethod": "LETT"
+								}
+							},
+							"TaxRemittance": {
+								"Codetr": {
+									"TaxIdentificationentification": "a",
+									"RegistrationIdentificationentification": "a",
+									"TaxType": "a"
+								},
+								"Debtor": {
+									"TaxIdentificationentification": "a",
+									"RegistrationIdentificationentification": "a",
+									"TaxType": "a",
+									"Authorisation": {
+										"Title": "a",
+										"Name": "a"
+									}
+								},
+								"UltmtDebtor": {
+									"TaxIdentificationentification": "a",
+									"RegistrationIdentificationentification": "a",
+									"TaxType": "a",
+									"Authorisation": {
+										"Title": "a",
+										"Name": "a"
+									}
+								},
+								"AdministrationZone": "a",
+								"ReferenceerenceNumber": "a",
+								"Method": "a",
+								"TtlTaxblBaseAmount": {
+									"@Xml Attribute Currency": "AAA",
+									"$": 0
+								},
+								"TtlTaxAmount": {
+									"@Xml Attribute Currency": "AAA",
+									"$": 0
+								},
+								"Date": "1957-08-13",
+								"SequenceNumber": 0,
+								"Record": {
+									"Type": "a",
+									"Category": "a",
+									"CategoryDatels": "a",
+									"DebtorSts": "a",
+									"CertificateIdentificationentification": "a",
+									"FrmsCode": "a",
+									"Period": {
+										"Year": "1957-08-13",
+										"Type": "MM03",
+										"FrToDate": {
+											"FrDate": "1957-08-13",
+											"ToDate": "1957-08-13"
+										}
+									},
+									"TaxAmount": {
+										"Rate": 0,
+										"TaxblBaseAmount": {
+											"@Xml Attribute Currency": "AAA",
+											"$": 0
+										},
+										"TtlAmount": {
+											"@Xml Attribute Currency": "AAA",
+											"$": 0
+										},
+										"Datels": {
+											"Period": {
+												"Year": "1957-08-13",
+												"Type": "MM09",
+												"FrToDate": {
+													"FrDate": "1957-08-13",
+													"ToDate": "1957-08-13"
+												}
+											},
+											"Amount": {
+												"@Xml Attribute Currency": "AAA",
+												"$": 0
+											}
+										}
+									},
+									"AdditionalInformationormation": "a"
+								}
+							},
+							"GarnishmentRemittance": {
+								"Type": {
+									"CodeOrProprietary": {
+										"Code": "a"
+									},
+									"Issuer": "a"
+								},
+								"Garnishee": {
+									"Name": "a",
+									"PostalAddress": {
+										"AddressType": {
+											"Code": "ADDR"
+										},
+										"Department": "a",
+										"SubDepartment": "a",
+										"StrtName": "a",
+										"BuildingNumber": "a",
+										"BldgName": "a",
+										"Flr": "a",
+										"PstBx": "a",
+										"Room": "a",
+										"PstCode": "a",
+										"TwnName": "a",
+										"TwnLctnName": "a",
+										"DstrctName": "a",
+										"CountrySubDivision": "a",
+										"Country": "AA",
+										"AddressLine": "a"
+									},
+									"Identification": {
+										"OrganisationIdentificationentification": {
+											"AnyBIC": "0000AA00",
+											"LEI": "00000000000000000000",
+											"Other": {
+												"Identification": "a",
+												"SchmeName": {
+													"Code": "a"
+												},
+												"Issuer": "a"
+											}
+										}
+									},
+									"CountryOfRes": "AA",
+									"ContactDetails": {
+										"NamePrfx": "DOCT",
+										"Name": "a",
+										"PhoneNumber": "+0-(",
+										"MobileNumber": "+0-(",
+										"FaxNumber": "+0-(",
+										"EmailAddress": "a",
+										"EmailPurpose": "a",
+										"JobTitle": "a",
+										"Rspnsblty": "a",
+										"Department": "a",
+										"Other": {
+											"ChanlType": "a",
+											"Identification": "a"
+										},
+										"PrefrdMethod": "LETT"
+									}
+								},
+								"GarnishmentAdministrator": {
+									"Name": "a",
+									"PostalAddress": {
+										"AddressType": {
+											"Code": "PBOX"
+										},
+										"Department": "a",
+										"SubDepartment": "a",
+										"StrtName": "a",
+										"BuildingNumber": "a",
+										"BldgName": "a",
+										"Flr": "a",
+										"PstBx": "a",
+										"Room": "a",
+										"PstCode": "a",
+										"TwnName": "a",
+										"TwnLctnName": "a",
+										"DstrctName": "a",
+										"CountrySubDivision": "a",
+										"Country": "AA",
+										"AddressLine": "a"
+									},
+									"Identification": {
+										"OrganisationIdentificationentification": {
+											"AnyBIC": "0000AA00",
+											"LEI": "00000000000000000000",
+											"Other": {
+												"Identification": "a",
+												"SchmeName": {
+													"Code": "a"
+												},
+												"Issuer": "a"
+											}
+										}
+									},
+									"CountryOfRes": "AA",
+									"ContactDetails": {
+										"NamePrfx": "MADM",
+										"Name": "a",
+										"PhoneNumber": "+0-(",
+										"MobileNumber": "+0-(",
+										"FaxNumber": "+0-(",
+										"EmailAddress": "a",
+										"EmailPurpose": "a",
+										"JobTitle": "a",
+										"Rspnsblty": "a",
+										"Department": "a",
+										"Other": {
+											"ChanlType": "a",
+											"Identification": "a"
+										},
+										"PrefrdMethod": "PHON"
+									}
+								},
+								"ReferenceerenceNumber": "a",
+								"Date": "1957-08-13",
+								"RmtdAmount": {
+									"@Xml Attribute Currency": "AAA",
+									"$": 0
+								},
+								"FamilyMedicalInsuranceIndicator": "true",
+								"EmployeeTerminationIndicator": "true"
+							},
+							"AddtlRemittanceInformationormation": "a"
+						}
+					},
+					"SupplementaryData": {
+						"PlcAndName": "a",
+						"Envelope": {
+							"auto-generated_for_wildcard": ""
+						}
+					}
+				}
+			},
+			"SupplementaryData": {
+				"PlcAndName": "a",
+				"Envelope": {
+					"auto-generated_for_wildcard": ""
+				}
+			}
+		}
+	}
+}

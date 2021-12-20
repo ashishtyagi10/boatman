@@ -1,0 +1,1610 @@
+{
+	"Document": {
+		"CstmrCdtTrfInitn": {
+			"GrpHdr": {
+				"MsgId": "a",
+				"CreDtTm": "2001-12-17T09:30:47Z",
+				"Authstn": {
+					"Cd": "FSUM"
+				},
+				"NbOfTxs": 0,
+				"CtrlSum": 0,
+				"InitgPty": {
+					"Nm": "a",
+					"PstlAdr": {
+						"AdrTp": {
+							"Cd": "BIZZ"
+						},
+						"Dept": "a",
+						"SubDept": "a",
+						"StrtNm": "a",
+						"BldgNb": "a",
+						"BldgNm": "a",
+						"Flr": "a",
+						"PstBx": "a",
+						"Room": "a",
+						"PstCd": "a",
+						"TwnNm": "a",
+						"TwnLctnNm": "a",
+						"DstrctNm": "a",
+						"CtrySubDvsn": "a",
+						"Ctry": "AA",
+						"AdrLine": "a"
+					},
+					"Id": {
+						"OrgId": {
+							"AnyBIC": "0000AA00",
+							"LEI": "00000000000000000000",
+							"Othr": {
+								"Id": "a",
+								"SchmeNm": {
+									"Cd": "a"
+								},
+								"Issr": "a"
+							}
+						}
+					},
+					"CtryOfRes": "AA",
+					"CtctDtls": {
+						"NmPrfx": "DOCT",
+						"Nm": "a",
+						"PhneNb": "+0-(",
+						"MobNb": "+0-(",
+						"FaxNb": "+0-(",
+						"EmailAdr": "a",
+						"EmailPurp": "a",
+						"JobTitl": "a",
+						"Rspnsblty": "a",
+						"Dept": "a",
+						"Othr": {
+							"ChanlTp": "a",
+							"Id": "a"
+						},
+						"PrefrdMtd": "MAIL"
+					}
+				},
+				"FwdgAgt": {
+					"FinInstnId": {
+						"BICFI": "0000AA00",
+						"ClrSysMmbId": {
+							"ClrSysId": {
+								"Cd": "a"
+							},
+							"MmbId": "a"
+						},
+						"LEI": "00000000000000000000",
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "HOME"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						},
+						"Othr": {
+							"Id": "a",
+							"SchmeNm": {
+								"Cd": "a"
+							},
+							"Issr": "a"
+						}
+					},
+					"BrnchId": {
+						"Id": "a",
+						"LEI": "00000000000000000000",
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "BIZZ"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						}
+					}
+				}
+			},
+			"PmtInf": {
+				"PmtInfId": "a",
+				"PmtMtd": "TRA",
+				"BtchBookg": "true",
+				"NbOfTxs": 0,
+				"CtrlSum": 0,
+				"PmtTpInf": {
+					"InstrPrty": "HIGH",
+					"SvcLvl": {
+						"Cd": "a"
+					},
+					"LclInstrm": {
+						"Cd": "a"
+					},
+					"CtgyPurp": {
+						"Cd": "a"
+					}
+				},
+				"ReqdExctnDt": {
+					"Dt": "1957-08-13"
+				},
+				"PoolgAdjstmntDt": "1957-08-13",
+				"Dbtr": {
+					"Nm": "a",
+					"PstlAdr": {
+						"AdrTp": {
+							"Cd": "DLVY"
+						},
+						"Dept": "a",
+						"SubDept": "a",
+						"StrtNm": "a",
+						"BldgNb": "a",
+						"BldgNm": "a",
+						"Flr": "a",
+						"PstBx": "a",
+						"Room": "a",
+						"PstCd": "a",
+						"TwnNm": "a",
+						"TwnLctnNm": "a",
+						"DstrctNm": "a",
+						"CtrySubDvsn": "a",
+						"Ctry": "AA",
+						"AdrLine": "a"
+					},
+					"Id": {
+						"OrgId": {
+							"AnyBIC": "0000AA00",
+							"LEI": "00000000000000000000",
+							"Othr": {
+								"Id": "a",
+								"SchmeNm": {
+									"Cd": "a"
+								},
+								"Issr": "a"
+							}
+						}
+					},
+					"CtryOfRes": "AA",
+					"CtctDtls": {
+						"NmPrfx": "DOCT",
+						"Nm": "a",
+						"PhneNb": "+0-(",
+						"MobNb": "+0-(",
+						"FaxNb": "+0-(",
+						"EmailAdr": "a",
+						"EmailPurp": "a",
+						"JobTitl": "a",
+						"Rspnsblty": "a",
+						"Dept": "a",
+						"Othr": {
+							"ChanlTp": "a",
+							"Id": "a"
+						},
+						"PrefrdMtd": "FAXX"
+					}
+				},
+				"DbtrAcct": {
+					"Id": {
+						"IBAN": "AA000"
+					},
+					"Tp": {
+						"Cd": "a"
+					},
+					"Ccy": "AAA",
+					"Nm": "a",
+					"Prxy": {
+						"Tp": {
+							"Cd": "a"
+						},
+						"Id": "a"
+					}
+				},
+				"DbtrAgt": {
+					"FinInstnId": {
+						"BICFI": "0000AA00",
+						"ClrSysMmbId": {
+							"ClrSysId": {
+								"Cd": "a"
+							},
+							"MmbId": "a"
+						},
+						"LEI": "00000000000000000000",
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "BIZZ"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						},
+						"Othr": {
+							"Id": "a",
+							"SchmeNm": {
+								"Cd": "a"
+							},
+							"Issr": "a"
+						}
+					},
+					"BrnchId": {
+						"Id": "a",
+						"LEI": "00000000000000000000",
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "HOME"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						}
+					}
+				},
+				"DbtrAgtAcct": {
+					"Id": {
+						"IBAN": "AA000"
+					},
+					"Tp": {
+						"Cd": "a"
+					},
+					"Ccy": "AAA",
+					"Nm": "a",
+					"Prxy": {
+						"Tp": {
+							"Cd": "a"
+						},
+						"Id": "a"
+					}
+				},
+				"InstrForDbtrAgt": "a",
+				"UltmtDbtr": {
+					"Nm": "a",
+					"PstlAdr": {
+						"AdrTp": {
+							"Cd": "PBOX"
+						},
+						"Dept": "a",
+						"SubDept": "a",
+						"StrtNm": "a",
+						"BldgNb": "a",
+						"BldgNm": "a",
+						"Flr": "a",
+						"PstBx": "a",
+						"Room": "a",
+						"PstCd": "a",
+						"TwnNm": "a",
+						"TwnLctnNm": "a",
+						"DstrctNm": "a",
+						"CtrySubDvsn": "a",
+						"Ctry": "AA",
+						"AdrLine": "a"
+					},
+					"Id": {
+						"OrgId": {
+							"AnyBIC": "0000AA00",
+							"LEI": "00000000000000000000",
+							"Othr": {
+								"Id": "a",
+								"SchmeNm": {
+									"Cd": "a"
+								},
+								"Issr": "a"
+							}
+						}
+					},
+					"CtryOfRes": "AA",
+					"CtctDtls": {
+						"NmPrfx": "DOCT",
+						"Nm": "a",
+						"PhneNb": "+0-(",
+						"MobNb": "+0-(",
+						"FaxNb": "+0-(",
+						"EmailAdr": "a",
+						"EmailPurp": "a",
+						"JobTitl": "a",
+						"Rspnsblty": "a",
+						"Dept": "a",
+						"Othr": {
+							"ChanlTp": "a",
+							"Id": "a"
+						},
+						"PrefrdMtd": "CELL"
+					}
+				},
+				"ChrgBr": "CRED",
+				"ChrgsAcct": {
+					"Id": {
+						"IBAN": "AA000"
+					},
+					"Tp": {
+						"Cd": "a"
+					},
+					"Ccy": "AAA",
+					"Nm": "a",
+					"Prxy": {
+						"Tp": {
+							"Cd": "a"
+						},
+						"Id": "a"
+					}
+				},
+				"ChrgsAcctAgt": {
+					"FinInstnId": {
+						"BICFI": "0000AA00",
+						"ClrSysMmbId": {
+							"ClrSysId": {
+								"Cd": "a"
+							},
+							"MmbId": "a"
+						},
+						"LEI": "00000000000000000000",
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "DLVY"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						},
+						"Othr": {
+							"Id": "a",
+							"SchmeNm": {
+								"Cd": "a"
+							},
+							"Issr": "a"
+						}
+					},
+					"BrnchId": {
+						"Id": "a",
+						"LEI": "00000000000000000000",
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "HOME"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						}
+					}
+				},
+				"CdtTrfTxInf": {
+					"PmtId": {
+						"InstrId": "a",
+						"EndToEndId": "a",
+						"UETR": "00000000-0000-4000-8000-000000000000"
+					},
+					"PmtTpInf": {
+						"InstrPrty": "NORM",
+						"SvcLvl": {
+							"Cd": "a"
+						},
+						"LclInstrm": {
+							"Cd": "a"
+						},
+						"CtgyPurp": {
+							"Cd": "a"
+						}
+					},
+					"Amt": {
+						"InstdAmt": {
+							"@Ccy": "AAA",
+							"$": 0
+						}
+					},
+					"XchgRateInf": {
+						"UnitCcy": "AAA",
+						"XchgRate": 0,
+						"RateTp": "SPOT",
+						"CtrctId": "a"
+					},
+					"ChrgBr": "CRED",
+					"ChqInstr": {
+						"ChqTp": "BCHQ",
+						"ChqNb": "a",
+						"ChqFr": {
+							"Nm": "a",
+							"Adr": {
+								"AdrTp": {
+									"Cd": "MLTO"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							}
+						},
+						"DlvryMtd": {
+							"Cd": "PUCD"
+						},
+						"DlvrTo": {
+							"Nm": "a",
+							"Adr": {
+								"AdrTp": {
+									"Cd": "PBOX"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							}
+						},
+						"InstrPrty": "NORM",
+						"ChqMtrtyDt": "1957-08-13",
+						"FrmsCd": "a",
+						"MemoFld": "a",
+						"RgnlClrZone": "a",
+						"PrtLctn": "a",
+						"Sgntr": "a"
+					},
+					"UltmtDbtr": {
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "MLTO"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						},
+						"Id": {
+							"OrgId": {
+								"AnyBIC": "0000AA00",
+								"LEI": "00000000000000000000",
+								"Othr": {
+									"Id": "a",
+									"SchmeNm": {
+										"Cd": "a"
+									},
+									"Issr": "a"
+								}
+							}
+						},
+						"CtryOfRes": "AA",
+						"CtctDtls": {
+							"NmPrfx": "DOCT",
+							"Nm": "a",
+							"PhneNb": "+0-(",
+							"MobNb": "+0-(",
+							"FaxNb": "+0-(",
+							"EmailAdr": "a",
+							"EmailPurp": "a",
+							"JobTitl": "a",
+							"Rspnsblty": "a",
+							"Dept": "a",
+							"Othr": {
+								"ChanlTp": "a",
+								"Id": "a"
+							},
+							"PrefrdMtd": "FAXX"
+						}
+					},
+					"IntrmyAgt1": {
+						"FinInstnId": {
+							"BICFI": "0000AA00",
+							"ClrSysMmbId": {
+								"ClrSysId": {
+									"Cd": "a"
+								},
+								"MmbId": "a"
+							},
+							"LEI": "00000000000000000000",
+							"Nm": "a",
+							"PstlAdr": {
+								"AdrTp": {
+									"Cd": "MLTO"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							},
+							"Othr": {
+								"Id": "a",
+								"SchmeNm": {
+									"Cd": "a"
+								},
+								"Issr": "a"
+							}
+						},
+						"BrnchId": {
+							"Id": "a",
+							"LEI": "00000000000000000000",
+							"Nm": "a",
+							"PstlAdr": {
+								"AdrTp": {
+									"Cd": "MLTO"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							}
+						}
+					},
+					"IntrmyAgt1Acct": {
+						"Id": {
+							"IBAN": "AA000"
+						},
+						"Tp": {
+							"Cd": "a"
+						},
+						"Ccy": "AAA",
+						"Nm": "a",
+						"Prxy": {
+							"Tp": {
+								"Cd": "a"
+							},
+							"Id": "a"
+						}
+					},
+					"IntrmyAgt2": {
+						"FinInstnId": {
+							"BICFI": "0000AA00",
+							"ClrSysMmbId": {
+								"ClrSysId": {
+									"Cd": "a"
+								},
+								"MmbId": "a"
+							},
+							"LEI": "00000000000000000000",
+							"Nm": "a",
+							"PstlAdr": {
+								"AdrTp": {
+									"Cd": "MLTO"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							},
+							"Othr": {
+								"Id": "a",
+								"SchmeNm": {
+									"Cd": "a"
+								},
+								"Issr": "a"
+							}
+						},
+						"BrnchId": {
+							"Id": "a",
+							"LEI": "00000000000000000000",
+							"Nm": "a",
+							"PstlAdr": {
+								"AdrTp": {
+									"Cd": "PBOX"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							}
+						}
+					},
+					"IntrmyAgt2Acct": {
+						"Id": {
+							"IBAN": "AA000"
+						},
+						"Tp": {
+							"Cd": "a"
+						},
+						"Ccy": "AAA",
+						"Nm": "a",
+						"Prxy": {
+							"Tp": {
+								"Cd": "a"
+							},
+							"Id": "a"
+						}
+					},
+					"IntrmyAgt3": {
+						"FinInstnId": {
+							"BICFI": "0000AA00",
+							"ClrSysMmbId": {
+								"ClrSysId": {
+									"Cd": "a"
+								},
+								"MmbId": "a"
+							},
+							"LEI": "00000000000000000000",
+							"Nm": "a",
+							"PstlAdr": {
+								"AdrTp": {
+									"Cd": "HOME"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							},
+							"Othr": {
+								"Id": "a",
+								"SchmeNm": {
+									"Cd": "a"
+								},
+								"Issr": "a"
+							}
+						},
+						"BrnchId": {
+							"Id": "a",
+							"LEI": "00000000000000000000",
+							"Nm": "a",
+							"PstlAdr": {
+								"AdrTp": {
+									"Cd": "BIZZ"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							}
+						}
+					},
+					"IntrmyAgt3Acct": {
+						"Id": {
+							"IBAN": "AA000"
+						},
+						"Tp": {
+							"Cd": "a"
+						},
+						"Ccy": "AAA",
+						"Nm": "a",
+						"Prxy": {
+							"Tp": {
+								"Cd": "a"
+							},
+							"Id": "a"
+						}
+					},
+					"CdtrAgt": {
+						"FinInstnId": {
+							"BICFI": "0000AA00",
+							"ClrSysMmbId": {
+								"ClrSysId": {
+									"Cd": "a"
+								},
+								"MmbId": "a"
+							},
+							"LEI": "00000000000000000000",
+							"Nm": "a",
+							"PstlAdr": {
+								"AdrTp": {
+									"Cd": "ADDR"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							},
+							"Othr": {
+								"Id": "a",
+								"SchmeNm": {
+									"Cd": "a"
+								},
+								"Issr": "a"
+							}
+						},
+						"BrnchId": {
+							"Id": "a",
+							"LEI": "00000000000000000000",
+							"Nm": "a",
+							"PstlAdr": {
+								"AdrTp": {
+									"Cd": "DLVY"
+								},
+								"Dept": "a",
+								"SubDept": "a",
+								"StrtNm": "a",
+								"BldgNb": "a",
+								"BldgNm": "a",
+								"Flr": "a",
+								"PstBx": "a",
+								"Room": "a",
+								"PstCd": "a",
+								"TwnNm": "a",
+								"TwnLctnNm": "a",
+								"DstrctNm": "a",
+								"CtrySubDvsn": "a",
+								"Ctry": "AA",
+								"AdrLine": "a"
+							}
+						}
+					},
+					"CdtrAgtAcct": {
+						"Id": {
+							"IBAN": "AA000"
+						},
+						"Tp": {
+							"Cd": "a"
+						},
+						"Ccy": "AAA",
+						"Nm": "a",
+						"Prxy": {
+							"Tp": {
+								"Cd": "a"
+							},
+							"Id": "a"
+						}
+					},
+					"Cdtr": {
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "ADDR"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						},
+						"Id": {
+							"OrgId": {
+								"AnyBIC": "0000AA00",
+								"LEI": "00000000000000000000",
+								"Othr": {
+									"Id": "a",
+									"SchmeNm": {
+										"Cd": "a"
+									},
+									"Issr": "a"
+								}
+							}
+						},
+						"CtryOfRes": "AA",
+						"CtctDtls": {
+							"NmPrfx": "DOCT",
+							"Nm": "a",
+							"PhneNb": "+0-(",
+							"MobNb": "+0-(",
+							"FaxNb": "+0-(",
+							"EmailAdr": "a",
+							"EmailPurp": "a",
+							"JobTitl": "a",
+							"Rspnsblty": "a",
+							"Dept": "a",
+							"Othr": {
+								"ChanlTp": "a",
+								"Id": "a"
+							},
+							"PrefrdMtd": "LETT"
+						}
+					},
+					"CdtrAcct": {
+						"Id": {
+							"IBAN": "AA000"
+						},
+						"Tp": {
+							"Cd": "a"
+						},
+						"Ccy": "AAA",
+						"Nm": "a",
+						"Prxy": {
+							"Tp": {
+								"Cd": "a"
+							},
+							"Id": "a"
+						}
+					},
+					"UltmtCdtr": {
+						"Nm": "a",
+						"PstlAdr": {
+							"AdrTp": {
+								"Cd": "MLTO"
+							},
+							"Dept": "a",
+							"SubDept": "a",
+							"StrtNm": "a",
+							"BldgNb": "a",
+							"BldgNm": "a",
+							"Flr": "a",
+							"PstBx": "a",
+							"Room": "a",
+							"PstCd": "a",
+							"TwnNm": "a",
+							"TwnLctnNm": "a",
+							"DstrctNm": "a",
+							"CtrySubDvsn": "a",
+							"Ctry": "AA",
+							"AdrLine": "a"
+						},
+						"Id": {
+							"OrgId": {
+								"AnyBIC": "0000AA00",
+								"LEI": "00000000000000000000",
+								"Othr": {
+									"Id": "a",
+									"SchmeNm": {
+										"Cd": "a"
+									},
+									"Issr": "a"
+								}
+							}
+						},
+						"CtryOfRes": "AA",
+						"CtctDtls": {
+							"NmPrfx": "DOCT",
+							"Nm": "a",
+							"PhneNb": "+0-(",
+							"MobNb": "+0-(",
+							"FaxNb": "+0-(",
+							"EmailAdr": "a",
+							"EmailPurp": "a",
+							"JobTitl": "a",
+							"Rspnsblty": "a",
+							"Dept": "a",
+							"Othr": {
+								"ChanlTp": "a",
+								"Id": "a"
+							},
+							"PrefrdMtd": "LETT"
+						}
+					},
+					"InstrForCdtrAgt": {
+						"Cd": "HOLD",
+						"InstrInf": "a"
+					},
+					"InstrForDbtrAgt": "a",
+					"Purp": {
+						"Cd": "a"
+					},
+					"RgltryRptg": {
+						"DbtCdtRptgInd": "CRED",
+						"Authrty": {
+							"Nm": "a",
+							"Ctry": "AA"
+						},
+						"Dtls": {
+							"Tp": "a",
+							"Dt": "1957-08-13",
+							"Ctry": "AA",
+							"Cd": "a",
+							"Amt": {
+								"@Ccy": "AAA",
+								"$": 0
+							},
+							"Inf": "a"
+						}
+					},
+					"Tax": {
+						"Cdtr": {
+							"TaxId": "a",
+							"RegnId": "a",
+							"TaxTp": "a"
+						},
+						"Dbtr": {
+							"TaxId": "a",
+							"RegnId": "a",
+							"TaxTp": "a",
+							"Authstn": {
+								"Titl": "a",
+								"Nm": "a"
+							}
+						},
+						"AdmstnZone": "a",
+						"RefNb": "a",
+						"Mtd": "a",
+						"TtlTaxblBaseAmt": {
+							"@Ccy": "AAA",
+							"$": 0
+						},
+						"TtlTaxAmt": {
+							"@Ccy": "AAA",
+							"$": 0
+						},
+						"Dt": "1957-08-13",
+						"SeqNb": 0,
+						"Rcrd": {
+							"Tp": "a",
+							"Ctgy": "a",
+							"CtgyDtls": "a",
+							"DbtrSts": "a",
+							"CertId": "a",
+							"FrmsCd": "a",
+							"Prd": {
+								"Yr": "1957-08-13",
+								"Tp": "MM05",
+								"FrToDt": {
+									"FrDt": "1957-08-13",
+									"ToDt": "1957-08-13"
+								}
+							},
+							"TaxAmt": {
+								"Rate": 0,
+								"TaxblBaseAmt": {
+									"@Ccy": "AAA",
+									"$": 0
+								},
+								"TtlAmt": {
+									"@Ccy": "AAA",
+									"$": 0
+								},
+								"Dtls": {
+									"Prd": {
+										"Yr": "1957-08-13",
+										"Tp": "QTR1",
+										"FrToDt": {
+											"FrDt": "1957-08-13",
+											"ToDt": "1957-08-13"
+										}
+									},
+									"Amt": {
+										"@Ccy": "AAA",
+										"$": 0
+									}
+								}
+							},
+							"AddtlInf": "a"
+						}
+					},
+					"RltdRmtInf": {
+						"RmtId": "a",
+						"RmtLctnDtls": {
+							"Mtd": "EDIC",
+							"ElctrncAdr": "a",
+							"PstlAdr": {
+								"Nm": "a",
+								"Adr": {
+									"AdrTp": {
+										"Cd": "HOME"
+									},
+									"Dept": "a",
+									"SubDept": "a",
+									"StrtNm": "a",
+									"BldgNb": "a",
+									"BldgNm": "a",
+									"Flr": "a",
+									"PstBx": "a",
+									"Room": "a",
+									"PstCd": "a",
+									"TwnNm": "a",
+									"TwnLctnNm": "a",
+									"DstrctNm": "a",
+									"CtrySubDvsn": "a",
+									"Ctry": "AA",
+									"AdrLine": "a"
+								}
+							}
+						}
+					},
+					"RmtInf": {
+						"Ustrd": "a",
+						"Strd": {
+							"RfrdDocInf": {
+								"Tp": {
+									"CdOrPrtry": {
+										"Cd": "DISP"
+									},
+									"Issr": "a"
+								},
+								"Nb": "a",
+								"RltdDt": "1957-08-13",
+								"LineDtls": {
+									"Id": {
+										"Tp": {
+											"CdOrPrtry": {
+												"Cd": "a"
+											},
+											"Issr": "a"
+										},
+										"Nb": "a",
+										"RltdDt": "1957-08-13"
+									},
+									"Desc": "a",
+									"Amt": {
+										"DuePyblAmt": {
+											"@Ccy": "AAA",
+											"$": 0
+										},
+										"DscntApldAmt": {
+											"Tp": {
+												"Cd": "a"
+											},
+											"Amt": {
+												"@Ccy": "AAA",
+												"$": 0
+											}
+										},
+										"CdtNoteAmt": {
+											"@Ccy": "AAA",
+											"$": 0
+										},
+										"TaxAmt": {
+											"Tp": {
+												"Cd": "a"
+											},
+											"Amt": {
+												"@Ccy": "AAA",
+												"$": 0
+											}
+										},
+										"AdjstmntAmtAndRsn": {
+											"Amt": {
+												"@Ccy": "AAA",
+												"$": 0
+											},
+											"CdtDbtInd": "CRDT",
+											"Rsn": "a",
+											"AddtlInf": "a"
+										},
+										"RmtdAmt": {
+											"@Ccy": "AAA",
+											"$": 0
+										}
+									}
+								}
+							},
+							"RfrdDocAmt": {
+								"DuePyblAmt": {
+									"@Ccy": "AAA",
+									"$": 0
+								},
+								"DscntApldAmt": {
+									"Tp": {
+										"Cd": "a"
+									},
+									"Amt": {
+										"@Ccy": "AAA",
+										"$": 0
+									}
+								},
+								"CdtNoteAmt": {
+									"@Ccy": "AAA",
+									"$": 0
+								},
+								"TaxAmt": {
+									"Tp": {
+										"Cd": "a"
+									},
+									"Amt": {
+										"@Ccy": "AAA",
+										"$": 0
+									}
+								},
+								"AdjstmntAmtAndRsn": {
+									"Amt": {
+										"@Ccy": "AAA",
+										"$": 0
+									},
+									"CdtDbtInd": "CRDT",
+									"Rsn": "a",
+									"AddtlInf": "a"
+								},
+								"RmtdAmt": {
+									"@Ccy": "AAA",
+									"$": 0
+								}
+							},
+							"CdtrRefInf": {
+								"Tp": {
+									"CdOrPrtry": {
+										"Cd": "SCOR"
+									},
+									"Issr": "a"
+								},
+								"Ref": "a"
+							},
+							"Invcr": {
+								"Nm": "a",
+								"PstlAdr": {
+									"AdrTp": {
+										"Cd": "PBOX"
+									},
+									"Dept": "a",
+									"SubDept": "a",
+									"StrtNm": "a",
+									"BldgNb": "a",
+									"BldgNm": "a",
+									"Flr": "a",
+									"PstBx": "a",
+									"Room": "a",
+									"PstCd": "a",
+									"TwnNm": "a",
+									"TwnLctnNm": "a",
+									"DstrctNm": "a",
+									"CtrySubDvsn": "a",
+									"Ctry": "AA",
+									"AdrLine": "a"
+								},
+								"Id": {
+									"OrgId": {
+										"AnyBIC": "0000AA00",
+										"LEI": "00000000000000000000",
+										"Othr": {
+											"Id": "a",
+											"SchmeNm": {
+												"Cd": "a"
+											},
+											"Issr": "a"
+										}
+									}
+								},
+								"CtryOfRes": "AA",
+								"CtctDtls": {
+									"NmPrfx": "MISS",
+									"Nm": "a",
+									"PhneNb": "+0-(",
+									"MobNb": "+0-(",
+									"FaxNb": "+0-(",
+									"EmailAdr": "a",
+									"EmailPurp": "a",
+									"JobTitl": "a",
+									"Rspnsblty": "a",
+									"Dept": "a",
+									"Othr": {
+										"ChanlTp": "a",
+										"Id": "a"
+									},
+									"PrefrdMtd": "PHON"
+								}
+							},
+							"Invcee": {
+								"Nm": "a",
+								"PstlAdr": {
+									"AdrTp": {
+										"Cd": "MLTO"
+									},
+									"Dept": "a",
+									"SubDept": "a",
+									"StrtNm": "a",
+									"BldgNb": "a",
+									"BldgNm": "a",
+									"Flr": "a",
+									"PstBx": "a",
+									"Room": "a",
+									"PstCd": "a",
+									"TwnNm": "a",
+									"TwnLctnNm": "a",
+									"DstrctNm": "a",
+									"CtrySubDvsn": "a",
+									"Ctry": "AA",
+									"AdrLine": "a"
+								},
+								"Id": {
+									"OrgId": {
+										"AnyBIC": "0000AA00",
+										"LEI": "00000000000000000000",
+										"Othr": {
+											"Id": "a",
+											"SchmeNm": {
+												"Cd": "a"
+											},
+											"Issr": "a"
+										}
+									}
+								},
+								"CtryOfRes": "AA",
+								"CtctDtls": {
+									"NmPrfx": "MIKS",
+									"Nm": "a",
+									"PhneNb": "+0-(",
+									"MobNb": "+0-(",
+									"FaxNb": "+0-(",
+									"EmailAdr": "a",
+									"EmailPurp": "a",
+									"JobTitl": "a",
+									"Rspnsblty": "a",
+									"Dept": "a",
+									"Othr": {
+										"ChanlTp": "a",
+										"Id": "a"
+									},
+									"PrefrdMtd": "LETT"
+								}
+							},
+							"TaxRmt": {
+								"Cdtr": {
+									"TaxId": "a",
+									"RegnId": "a",
+									"TaxTp": "a"
+								},
+								"Dbtr": {
+									"TaxId": "a",
+									"RegnId": "a",
+									"TaxTp": "a",
+									"Authstn": {
+										"Titl": "a",
+										"Nm": "a"
+									}
+								},
+								"UltmtDbtr": {
+									"TaxId": "a",
+									"RegnId": "a",
+									"TaxTp": "a",
+									"Authstn": {
+										"Titl": "a",
+										"Nm": "a"
+									}
+								},
+								"AdmstnZone": "a",
+								"RefNb": "a",
+								"Mtd": "a",
+								"TtlTaxblBaseAmt": {
+									"@Ccy": "AAA",
+									"$": 0
+								},
+								"TtlTaxAmt": {
+									"@Ccy": "AAA",
+									"$": 0
+								},
+								"Dt": "1957-08-13",
+								"SeqNb": 0,
+								"Rcrd": {
+									"Tp": "a",
+									"Ctgy": "a",
+									"CtgyDtls": "a",
+									"DbtrSts": "a",
+									"CertId": "a",
+									"FrmsCd": "a",
+									"Prd": {
+										"Yr": "1957-08-13",
+										"Tp": "MM03",
+										"FrToDt": {
+											"FrDt": "1957-08-13",
+											"ToDt": "1957-08-13"
+										}
+									},
+									"TaxAmt": {
+										"Rate": 0,
+										"TaxblBaseAmt": {
+											"@Ccy": "AAA",
+											"$": 0
+										},
+										"TtlAmt": {
+											"@Ccy": "AAA",
+											"$": 0
+										},
+										"Dtls": {
+											"Prd": {
+												"Yr": "1957-08-13",
+												"Tp": "MM09",
+												"FrToDt": {
+													"FrDt": "1957-08-13",
+													"ToDt": "1957-08-13"
+												}
+											},
+											"Amt": {
+												"@Ccy": "AAA",
+												"$": 0
+											}
+										}
+									},
+									"AddtlInf": "a"
+								}
+							},
+							"GrnshmtRmt": {
+								"Tp": {
+									"CdOrPrtry": {
+										"Cd": "a"
+									},
+									"Issr": "a"
+								},
+								"Grnshee": {
+									"Nm": "a",
+									"PstlAdr": {
+										"AdrTp": {
+											"Cd": "ADDR"
+										},
+										"Dept": "a",
+										"SubDept": "a",
+										"StrtNm": "a",
+										"BldgNb": "a",
+										"BldgNm": "a",
+										"Flr": "a",
+										"PstBx": "a",
+										"Room": "a",
+										"PstCd": "a",
+										"TwnNm": "a",
+										"TwnLctnNm": "a",
+										"DstrctNm": "a",
+										"CtrySubDvsn": "a",
+										"Ctry": "AA",
+										"AdrLine": "a"
+									},
+									"Id": {
+										"OrgId": {
+											"AnyBIC": "0000AA00",
+											"LEI": "00000000000000000000",
+											"Othr": {
+												"Id": "a",
+												"SchmeNm": {
+													"Cd": "a"
+												},
+												"Issr": "a"
+											}
+										}
+									},
+									"CtryOfRes": "AA",
+									"CtctDtls": {
+										"NmPrfx": "DOCT",
+										"Nm": "a",
+										"PhneNb": "+0-(",
+										"MobNb": "+0-(",
+										"FaxNb": "+0-(",
+										"EmailAdr": "a",
+										"EmailPurp": "a",
+										"JobTitl": "a",
+										"Rspnsblty": "a",
+										"Dept": "a",
+										"Othr": {
+											"ChanlTp": "a",
+											"Id": "a"
+										},
+										"PrefrdMtd": "LETT"
+									}
+								},
+								"GrnshmtAdmstr": {
+									"Nm": "a",
+									"PstlAdr": {
+										"AdrTp": {
+											"Cd": "PBOX"
+										},
+										"Dept": "a",
+										"SubDept": "a",
+										"StrtNm": "a",
+										"BldgNb": "a",
+										"BldgNm": "a",
+										"Flr": "a",
+										"PstBx": "a",
+										"Room": "a",
+										"PstCd": "a",
+										"TwnNm": "a",
+										"TwnLctnNm": "a",
+										"DstrctNm": "a",
+										"CtrySubDvsn": "a",
+										"Ctry": "AA",
+										"AdrLine": "a"
+									},
+									"Id": {
+										"OrgId": {
+											"AnyBIC": "0000AA00",
+											"LEI": "00000000000000000000",
+											"Othr": {
+												"Id": "a",
+												"SchmeNm": {
+													"Cd": "a"
+												},
+												"Issr": "a"
+											}
+										}
+									},
+									"CtryOfRes": "AA",
+									"CtctDtls": {
+										"NmPrfx": "MADM",
+										"Nm": "a",
+										"PhneNb": "+0-(",
+										"MobNb": "+0-(",
+										"FaxNb": "+0-(",
+										"EmailAdr": "a",
+										"EmailPurp": "a",
+										"JobTitl": "a",
+										"Rspnsblty": "a",
+										"Dept": "a",
+										"Othr": {
+											"ChanlTp": "a",
+											"Id": "a"
+										},
+										"PrefrdMtd": "PHON"
+									}
+								},
+								"RefNb": "a",
+								"Dt": "1957-08-13",
+								"RmtdAmt": {
+									"@Ccy": "AAA",
+									"$": 0
+								},
+								"FmlyMdclInsrncInd": "true",
+								"MplyeeTermntnInd": "true"
+							},
+							"AddtlRmtInf": "a"
+						}
+					},
+					"SplmtryData": {
+						"PlcAndNm": "a",
+						"Envlp": {
+							"auto-generated_for_wildcard": ""
+						}
+					}
+				}
+			},
+			"SplmtryData": {
+				"PlcAndNm": "a",
+				"Envlp": {
+					"auto-generated_for_wildcard": ""
+				}
+			}
+		}
+	}
+}
