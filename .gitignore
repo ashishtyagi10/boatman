@@ -26,6 +26,7 @@ hs_err_pid*
 */target/**
 **/META-INF/
 !.mvn/wrapper/maven-wrapper.jar
+**/surefire-reports/**
 
 ### STS ###
 .apt_generated
